@@ -1,2 +1,9 @@
-2026/04/15-14:53:37.489 12b70 Creating DB C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/15-14:53:37.508 12b70 Reusing MANIFEST C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/17-23:16:17.296 12408 Reusing MANIFEST C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/05/17-23:16:17.305 12408 Recovering log #3
+2026/05/17-23:16:17.306 12408 Reusing old log C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/05/17-23:25:49.684 bef0 Level-0 table #5: started
+2026/05/17-23:25:49.690 bef0 Level-0 table #5: 72146 bytes OK
+2026/05/17-23:25:49.693 bef0 Delete type=0 #3
+2026/05/17-23:43:51.825 14d30 Level-0 table #7: started
+2026/05/17-23:43:51.832 14d30 Level-0 table #7: 62690 bytes OK
+2026/05/17-23:43:51.835 14d30 Delete type=0 #4
