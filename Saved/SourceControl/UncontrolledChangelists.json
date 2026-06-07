@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+=======
+>>>>>>> YunusBranch
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_PlayerMainUI.uasset",
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BPI_Interact.uasset",
@@ -14,7 +17,15 @@
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/levels/Test_Level.umap",
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_ThrashAmount.uasset",
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/assets/M_TV.uasset",
+<<<<<<< HEAD
 				"C:/Users/Yunus/Downloads/Serious_Games_2026/Serious_Games_2026/Content/levels/Test_Level.umap",
+=======
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BP_ThrashAnnihilator.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/assets/Trash_Annihilator_Bottom.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/assets/Trash_Annihilator_Top.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_ThrashProgressBar.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/E_InterractionType.uasset",
+>>>>>>> YunusBranch
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/levels/Test_Level.umap",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/FirstPerson/MI_FirstPersonColorway.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
@@ -100,6 +111,8 @@
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/materials/Trash_Annihilator/base_BaseColor.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/materials/Trash_Annihilator/base_Metallic.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/materials/Trash_Annihilator/base_Roughness.uasset",
+<<<<<<< HEAD
+=======
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/assets/landscape/M_Landscape.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/Fab/Megascans/Surfaces/Bright_Desert_Sand_sjzkfega/Low/sjzkfega_tier_3/Materials/MI_sjzkfega.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/Fab/Megascans/Surfaces/Thai_Beach_Sand_tdsmeeko/Medium/tdsmeeko_tier_2/stylized_grass_texture/Materials/Material_002.uasset",
@@ -126,6 +139,7 @@
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/Fab/Megascans/Surfaces/Uncut_Grass_oeeb70/Low/oeeb70_tier_3/Textures/T_oeeb70_1K_B.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/Fab/Megascans/Surfaces/Uncut_Grass_oeeb70/Low/oeeb70_tier_3/Textures/T_oeeb70_1K_N.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/Fab/Megascans/Surfaces/Uncut_Grass_oeeb70/Low/oeeb70_tier_3/Textures/T_oeeb70_1K_ORM.uasset",
+<<<<<<< HEAD
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/Blueprints/FirstPersonBP/BP_TestInterractable.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/levels/Main_Level.umap",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/assets/landscape/foliage/MI_Foliage1.uasset",
@@ -163,6 +177,17 @@
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/vegetation/S_Tree_J.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/assets/landscape/pebble.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/assets/landscape/NewInstancedStaticMeshFoliage.uasset",
+=======
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_PlayerMainUI.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BPI_Interact.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_InterractionWidget.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BP_TestInterractable.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/levels/Test_Level.umap",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_ThrashAmount.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/assets/M_TV.uasset",
+>>>>>>> origin/ata_branch
+>>>>>>> YunusBranch
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/WBP_PlayerUI.uasset",
 				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/Inventory_System/Widgets/WBP_PlayerUI.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Content/materials/M_Cup1.uasset",
