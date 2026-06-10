@@ -5,12 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/levels/Main_Level.umap",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/E_ThrashType.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/ST_Thrash.uasset",
+				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/Blueprints/FirstPersonBP/BP_TestInterractable.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Serious_Games_2026/Content/Blueprints/FirstPersonBP/BP_FirstPersonCharacter.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Serious_Games_2026/Content/materials/M_Straw.uasset",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Serious_Games_2026/Content/levels/Main_Level.umap",
 				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Serious_Games_2026/Content/materials/M_PP.uasset",
-				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Serious_Games_2026/Content/materials/MI_PP.uasset",
-				"C:/Users/Yunus/OneDrive/Desktop/GitHub Repos/Serious_Games_2026.2/Content/levels/Main_Level.umap"
+				"C:/Users/salim/Documents/Unreal Projects/Serious_Games_2026/Serious_Games_2026/Content/materials/MI_PP.uasset"
 			]
 		}
 	]
