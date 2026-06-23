@@ -1,5 +1,0 @@
-[0607/154224.735:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0607/154225.129:WARNING:storage_block-inl.h(146)] Failed data load.
-[0607/154424.276:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0607/154449.244:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
-[0607/154458.764:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
